@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fselawsky%2Fhow-to-learn-any-programming-language-online-in-2019-24cb&psig=AOvVaw0J7QrvdYCsB_EOPnCGKWAM&ust=1700775766267000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCl-szJ2IIDFQAAAAAdAAAAABAF)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--ZmPcIbAW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dzone.com/storage/temp/12334613-971.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Nijat Rahimov</h1>
