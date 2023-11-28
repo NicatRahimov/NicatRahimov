@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **law firm management system**
 
-- 🌱 I’m currently learning **WebSocket**
+- 🌱 I’m currently learning **RaabitMQ**
 
 - 📫 How to reach me **nijatrahimov9@gmail.com**
 
