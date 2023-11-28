@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **law firm management system**
 
-- 🌱 I’m currently learning **RaabitMQ**
+- 🌱 I’m currently learning **RabbitMQ and Redis**
 
 - 📫 How to reach me **nijatrahimov9@gmail.com**
 
