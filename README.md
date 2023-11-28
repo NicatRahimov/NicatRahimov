@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nijat Rahimov</h1>
-<h3 align="center">A passionate backend developer from Azerbaijan</h3>
+<h3 align="center">A backend developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on **law firm management system**
 
