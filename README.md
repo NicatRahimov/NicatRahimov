@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Nijat Rahimov</h1>
 <h3 align="center">A backend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **law firm management system**
-
 - 🌱 I’m currently learning **RabbitMQ and Redis**
 
 - 📫 How to reach me **nijatrahimov9@gmail.com**
